@@ -12,7 +12,7 @@
 * 3)A simple Javascript chat bot is on landing page .After interacting with bot click on chat icon.
 * 4)Open Multiple windows with this url **(http://localhost:3000/chat)** and join same chat room to interact.
 
-# Deployment
+# Deployment 
 
- Link: https://chat-support07.herokuapp.com/ 
-
+* Link: https://chat-support07.herokuapp.com/ 
+* open multiple tabs in browser with this url (https://chat-support07.herokuapp.com/chat)and join common chat room for eg **Admin** and interact with each other
