@@ -15,4 +15,4 @@
 # Deployment 
 
 * Link: https://chat-support07.herokuapp.com/ 
-* open multiple tabs in browser with this url (https://chat-support07.herokuapp.com/chat)and join common chat room for eg **Admin** and interact with each other
+* open multiple tabs in browser with this url (https://chat-support07.herokuapp.com/chat) and join common chat room for eg **Admin** and interact with each other
