@@ -3,7 +3,7 @@ var questions = [
     'Where are you from?',
     'What\'s your age?',
     'What profile you are working on?',
-    'Join Chat room "Admin" for further Queries'
+    'Join Chat room "Admin" for further Queries By clicking Chat icon below'
     
 ];
 var num = 0;
