@@ -5,6 +5,19 @@
 * NodeJS
 * socket.io
 * jquery
+* Rivescript
+# Bot working on following Queries
+* hello bot
+* how are you
+* (hello|hi|hey)
+*  my name is *
+* what is your name
+* what is your (home|office|work|cell) phone number
+* [how] can i contact you
+* [do] you have [an] email [address]
+* tell me your [home|office|work|cell] [phone] number
+* email
+* phone
 
 # Build and Usage
 * 1)Install dependencies (npm install).
